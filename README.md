@@ -65,6 +65,9 @@ COCO
 	└── val2014
 ```
 
+### Personalized Segmentation
+Download our proposed dataset at [here](https://cloud.tsinghua.edu.cn/f/770f65358e25434d8da3/).
+
 ## 3. Preparing Pre-trained Models
 The Stable Diffusion v1.4 model should be downloaded from [Huggingface](https://huggingface.co/CompVis/stable-diffusion) and be put to `models/ldm/stable-diffusion-v1/` as `model.ckpt`.
 The CLIP pre-trained model will be downloaded automatically when running the codes.
