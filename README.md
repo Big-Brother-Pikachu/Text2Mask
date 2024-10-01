@@ -82,18 +82,18 @@ After running, the generated pseudo masks are saved in `datasets/VOCdevkit/VOC20
 ## 5. Train Segmentation Model
 To train DeepLab v2, we refer to [deeplab-pytorch](https://github.com/kazuto1011/deeplab-pytorch). The ImageNet pre-trained model can be found in [AdvCAM](https://github.com/jbeomlee93/AdvCAM).
 
-<!-- ## Citation
+## Citation
 
 If you find our research interesting, please kindly cite our paper:
 
 ```
-@article{where2edit,
-title = {Where you edit is what you get: Text-guided image editing with region-based attention},
-journal = {Pattern Recognition},
-volume = {139},
-pages = {109458},
-year = {2023},
-issn = {0031-3203},
-author = {Changming Xiao and Qi Yang and Xiaoqiang Xu and Jianwei Zhang and Feng Zhou and Changshui Zhang},
+@article{text2mask,
+title = {From text to mask: Localizing entities using the attention of text-to-image diffusion models},
+journal = {Neurocomputing},
+volume = {610},
+pages = {128437},
+year = {2024},
+issn = {0925-2312},
+author = {Changming Xiao and Qi Yang and Feng Zhou and Changshui Zhang}
 }
-``` -->
+```
