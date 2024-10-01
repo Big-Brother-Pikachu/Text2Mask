@@ -82,7 +82,7 @@ After running, the generated pseudo masks are saved in `datasets/VOCdevkit/VOC20
 ## 5. Train Segmentation Model
 To train DeepLab v2, we refer to [deeplab-pytorch](https://github.com/kazuto1011/deeplab-pytorch). The ImageNet pre-trained model can be found in [AdvCAM](https://github.com/jbeomlee93/AdvCAM).
 
-## Citation
+## 6. Citation
 
 If you find our research interesting, please kindly cite our paper:
 
